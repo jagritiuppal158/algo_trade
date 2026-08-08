@@ -1,4 +1,7 @@
-# 🚀 Team Cool as Code - Trading Agent Setup Guide
+## project Description
+Team Cool as Code 🦇 — an algorithmic trading agent built for a live trading-simulation competition. The agent polls a market API every tick, tracks portfolio state, and executes a rule-based allocation strategy: hold a near-maximum position, minimize trades to avoid fees, and defend against crashes using regime-detection signals.
+
+#  Trading Agent Setup Guide
 
 ## 📋 Quick Overview
 This guide will help you run our algorithmic trading agent. Just follow these steps exactly!
